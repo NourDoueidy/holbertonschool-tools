@@ -1,1 +1,1 @@
-This is my first project as a Holberton school student
+This is my first project as a Holberton school student.
