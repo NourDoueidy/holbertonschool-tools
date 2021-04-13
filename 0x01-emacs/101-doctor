@@ -1,1 +1,1 @@
-shift-esc x doctor <return>
+M-x doctor
