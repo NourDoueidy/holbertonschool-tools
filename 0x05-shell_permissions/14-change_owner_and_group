@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R -f betty, chgrp -R -f holberton
+chown -R -f betty, chgrp -R -f holberton
