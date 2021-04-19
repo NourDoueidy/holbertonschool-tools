@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod -R -f betty, chgrp -R -f holberton
