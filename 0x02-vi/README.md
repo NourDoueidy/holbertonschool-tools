@@ -1,1 +1,1 @@
-Vi commands
+Vim commands
